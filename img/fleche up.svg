@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 407.7 259.7" style="enable-background:new 0 0 407.7 259.7;" xml:space="preserve">
+<style type="text/css">
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700');
+	.st0{fill:#0069b4;}
+	.st1{fill:none;stroke:#0069b4;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#0069b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{font-family:'Roboto'; font-weight: 900;}
+	.st4{font-size:15px;}
+	.st5{fill:url(#SVGID_1_);}
+	.st6{font-size:18px;}
+</style>
+<g>
+	<path class="st0" d="M40.9,175.1l330.7-2c1.1,0,2,0.9,2,2s-0.9,2-2,2L40.9,175.1L40.9,175.1z"/>
+</g>
+<line class="st1" x1="52.9" y1="175" x2="52.9" y2="196"/>
+<line class="st2" x1="357.9" y1="178" x2="357.9" y2="196"/>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 332.6772 246.6501)" class="st0 st3 st4">30 Juillet</text>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="44.1186" y1="159.6" x2="360.3176" y2="159.6" gradientTransform="matrix(1 0 0 -1 0 262)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.8715" style="stop-color:#0069b4"/>
+	</linearGradient>
+	<path class="st5" d="M53,170c15.5,0,75-2.6,90.4-3.9c30.8-2.5,61.4-7.6,90.6-16.7c14.6-4.5,28.9-10.1,42.4-16.9
+		c13.5-6.8,26.2-15,37.6-24.6s21.3-20.7,29.1-33.1c7.9-12.3,13.6-25.9,17.2-40L358,167.3L53,170z"/>
+</g>
+<text transform="matrix(1 0 0 1 230 38)" class="st0 st3 st6">180 000 Unités</text>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 23.6772 246.6501)" class="st0 st3 st4">20 Mars</text>
+</svg>
